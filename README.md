@@ -36,7 +36,11 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
- 
+ <img width="1303" height="919" alt="exp-1 2 drawing" src="https://github.com/user-attachments/assets/7af21612-f633-475f-b1a4-77dc11fc64b6" />
+
+ NAME : H GANANANTH
+ REG NO : 25010984 
+ SLOT : 4D6-2 
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
